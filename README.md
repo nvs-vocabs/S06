@@ -1,8 +1,6 @@
 # S06
-Repository to manage issues related to the BODC S01 Vocabulary.
+A controlled vocabulary for the parameter entity component of a P01 parameter concept in the BODC parameter semantic model
 
-Title: BODC parameter semantic model parameter entity names
+Terms and mappings available from: http://vocab.nerc.ac.uk/collection/S06/current/
+Search interface: https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S06/
 
-Definition: Controlled vocabulary defining the terms that may be used for a parameter entity (part of the what theme) in the BODC parameter semantic model.
-
-Governance: British Oceanographic Data Centre
