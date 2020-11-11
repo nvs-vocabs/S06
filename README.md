@@ -1,4 +1,4 @@
-# S06 - BODC Parameter semantic model parameter entity names (properties) 
+# S06 - BODC parameter semantic model parameter properties (quantitative and qualitative or nominal) 
 A controlled vocabulary for the parameter entity component of a P01 parameter concept in the BODC parameter semantic model
 
 Terms and mappings available from: http://vocab.nerc.ac.uk/collection/S06/current/
